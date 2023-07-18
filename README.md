@@ -20,3 +20,6 @@ Disciplina oferecida no curso de formação em tecnologias Microsoft ministrado 
 * Após a clonagem do repositório, será necessário instalar a fonte localizada no diretório ./MediaPlayer_INF0996/Assets/ para que seja possível visualizar os botões corretamente.<br/>
 
 Com o diretório do projeto aberto, navegue para MediaPlayer_INF0996 e, no terminal, execute o comando <code>dotnet run</code>
+
+### Link para video demonstração
+https://drive.google.com/file/d/1WnHbaC_xhQB-O_enxQFmshwS6egaPlqH/view?usp=sharing
